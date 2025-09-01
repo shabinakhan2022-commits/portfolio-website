@@ -23,7 +23,7 @@ export default function Hero() {
             Shabina Khan
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground mb-12 font-light">
-            Fullstack Intern
+            Full-Stack Developer Intern
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button
