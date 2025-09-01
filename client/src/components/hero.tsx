@@ -20,10 +20,10 @@ export default function Hero() {
       <div className="container mx-auto px-4 text-center relative z-10">
         <div className={`max-w-4xl mx-auto transition-all duration-1000 ${isVisible ? 'fade-in' : 'opacity-0'}`}>
           <h1 className="text-4xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-primary to-primary/80 bg-clip-text text-transparent">
-            Hi, I'm Shabs 👋
+            Shabina Khan
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground mb-12 font-light">
-            Full-Stack Developer Intern
+            Fullstack Intern
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button
