@@ -7,7 +7,7 @@ export default function Footer() {
     { icon: Github, href: "#", label: "GitHub" },
     { icon: Linkedin, href: "#", label: "LinkedIn" },
     { icon: Twitter, href: "#", label: "Twitter" },
-    { icon: Mail, href: "mailto:alex.chen@example.com", label: "Email" }
+    { icon: Mail, href: "mailto:shabina.khan@example.com", label: "Email" }
   ];
 
   return (
@@ -16,7 +16,7 @@ export default function Footer() {
         <div className="max-w-4xl mx-auto text-center">
           <div className="mb-6">
             <h3 className="text-xl font-semibold mb-2" data-testid="footer-name">
-              Alex Chen
+              Shabina Khan
             </h3>
             <p className="text-muted-foreground" data-testid="footer-tagline">
               Building the future, one line of code at a time.
@@ -39,7 +39,7 @@ export default function Footer() {
           
           <div className="text-sm text-muted-foreground">
             <p data-testid="copyright">
-              &copy; {currentYear} Alex Chen. All rights reserved.
+              &copy; {currentYear} Shabina Khan. All rights reserved.
             </p>
           </div>
         </div>
